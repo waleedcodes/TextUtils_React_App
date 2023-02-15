@@ -1,0 +1,10 @@
+.navbar-light .navbar-toggler,
+.navbar-dark .navbar-toggler {
+    color: rgb(0 0 0 / 0%);
+    border-color: rgb(0 0 0 / 0%);
+}
+
+/* .navbar-dark .navbar-toggler {
+    color: rgb(255 255 255 / 0%);
+    border-color: rgb(255 255 255 / 0%);
+} */
